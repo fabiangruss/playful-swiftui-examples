@@ -10,9 +10,8 @@ Feel free to star the repo, many more examples to come :)
 
 This button toggles between play and pause and is a squishy button that changes its shape when pressed. It uses a combination of animations and symbol effects to achieve a playful look.
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/fabiangruss/swiftui-examples/raw/main/previews/play_button.mov" type="video/mp4">
-</video>
+https://github.com/fabiangruss/swiftui-examples/assets/22966490/6bba3c00-b21a-4f3e-bc69-a97642b6129a
+
 
 ### Highlighted search
 
