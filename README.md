@@ -1,4 +1,4 @@
-# swiftui-examples
+# playful-swiftui-examples
 
 A growing collection of pretty SwiftUI code snippets to use in your projects based on code from my projects.
 
