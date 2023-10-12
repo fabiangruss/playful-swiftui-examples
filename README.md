@@ -2,7 +2,7 @@
 
 A growing collection of pretty SwiftUI code snippets to use in your projects based on code from my projects.
 
-Most examples are focused on having a great UX and add a little bit of fun for the user.
+Most examples are focused on having a great UX and adding a little bit of fun for the user.
 
 Feel free to star the repo and follow [@fabiangruss](https://twitter.com/fabiangruss) on Twitter - many more examples to come :)
 
