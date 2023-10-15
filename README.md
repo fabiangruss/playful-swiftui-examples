@@ -55,3 +55,21 @@ This code snippet shows how to highlight the search term in a list of results. I
 ![Highlighted search](https://github.com/fabiangruss/swiftui-examples/blob/main/previews/highlighted_search.jpg?raw=true)
 
 [Go to code](https://github.com/fabiangruss/swiftui-examples/blob/a37c34ec1e470e9b6ac03088b1c4c81bae22adec/highlighted_search.swift)
+
+
+
+
+---
+
+
+
+#### [Custom pull to refresh/action](https://github.com/fabiangruss/playful-swiftui-examples/blob/649765d4eebfa0d14f3d51062f9e08474b3230ea/custom_refresh_view.swift)
+
+This code snippet shows how to build a custom pull to refresh and attach it to a scroll view. It replaces iOS' default `ProgressView` by your own view. This view receives the current pull down percentage from 0 to 1 to be used for custom interactions. Inspiration to this refresh view is based on [kavsoft.dev](https://kavsoft.dev/)
+
+
+https://github.com/fabiangruss/playful-swiftui-examples/assets/22966490/dbdb39ac-f69e-412c-9a90-450a0652e329
+
+
+[Go to code](https://github.com/fabiangruss/playful-swiftui-examples/blob/649765d4eebfa0d14f3d51062f9e08474b3230ea/custom_refresh_view.swift)
+
