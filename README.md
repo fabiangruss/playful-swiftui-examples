@@ -73,3 +73,16 @@ https://github.com/fabiangruss/playful-swiftui-examples/assets/22966490/dbdb39ac
 
 [Go to code](https://github.com/fabiangruss/playful-swiftui-examples/blob/649765d4eebfa0d14f3d51062f9e08474b3230ea/custom_refresh_view.swift)
 
+
+
+---
+
+
+
+#### [Notification animation](https://github.com/fabiangruss/playful-swiftui-examples/blob/649765d4eebfa0d14f3d51062f9e08474b3230ea/custom_refresh_view.swift)
+
+This code snippet shows an animation of a stack of notifications that I used in a notification permission priming screen. Add custom image/avatar paths to make the file runnable.
+
+
+
+[Go to code]()
